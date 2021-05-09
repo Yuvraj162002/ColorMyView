@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayout2</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="textview">
+        How to play:- Tap and Screen and Button
+    </string>
+</resources>
