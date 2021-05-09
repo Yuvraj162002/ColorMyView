@@ -27,5 +27,5 @@ https://github.com/Yuvraj162002/ColorMyView/blob/master/app-debug.apk
 
 # Video 
 
-Here is the small video of the app how it work
+Here is the small video of the app  to show how it work
 https://github.com/Yuvraj162002/ColorMyView/blob/master/ColorMyView.mp4
